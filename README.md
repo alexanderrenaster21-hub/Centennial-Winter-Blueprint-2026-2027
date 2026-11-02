@@ -1,7 +1,7 @@
 # The 2026/2027 Centennial Winter Blueprint
 ### Early November Major Stratospheric Bifurcation, East-Pacific Mega-Niño, and Paleoclimatic Ground-Truth
 
-[![DOI](https://doi.org/10.5281/zenodo.23887412].svg)](https://doi.org/10.5281/zenodo.23887412])
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23887413.svg)](https://doi.org/10.5281/zenodo.23887413)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--3854--8911-green.svg)](https://orcid.org/0009-0006-3854-8911)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
